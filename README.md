@@ -1,5 +1,7 @@
 # python_flat_search
-Personal webscraping project with Python for searching for flats in Berlin.
+Personal webscraping project with Python for flat searching in Berlin.
+
+Based on the [Python Flight Search](https://github.com/kjam/python_flight_search) project by Katharine Jarmul.  
 
 ## Script:
 * wg-gesucht_scraped.ipynb - Jupyther Notebook script to scrape [wg-gesucht.de](http>//wg-gesucht.de) website. It run a search for flats according to input parameters and returns results in a `pandas` DataFrame.
